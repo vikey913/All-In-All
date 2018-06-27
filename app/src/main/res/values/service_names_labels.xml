@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="service_list">
+        <item>Bike Puncture</item>
+        <item>Car Puncture</item>
+        <item>Buy Petrol</item>
+        <item>Medicines</item>
+        <item>Travel Ticket</item>
+        <item>Recharge</item>
+        <item>Water Purifier</item>
+        <item>Water Supply</item>
+        <item>Water Service</item>
+        <item>Shopping</item>
+        <item>Stationery</item>
+        <item>Trainer</item>
+        <item>Function Arrangement</item>
+        <item>Video Coverage</item>
+        <item>Camera Coverage</item>
+        <item>Bridal Makeup</item>
+        <item>Beauty Parlour</item>
+        <item>Hotel Booking</item>
+        <item>Acting Driver</item>
+        <item>Sewage worker</item>
+        <item>Packers and Movers</item>
+        <item>Rent Cars</item>
+    </string-array>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "175919904629",
+    "firebase_url": "https://all-in-all-a7324.firebaseio.com",
+    "project_id": "all-in-all-a7324",
+    "storage_bucket": "all-in-all-a7324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175919904629:android:9ff898a7ff279463",
+        "android_client_info": {
+          "package_name": "com.getzetgo.all_in_all"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175919904629-b1cdn96omct9cfd0cjtud57g07i9174i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlf4XOy9HQRDWwM8dywqPLO8oRwlEtMew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
